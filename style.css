@@ -731,6 +731,8 @@ span.text {
 }
 .otheracc{
     display: flex;
-    justify-content: space-between;
+    justify-content: end;
     width: 24%;
+    gap: 20px;
+    margin-right: 20px;
 }
